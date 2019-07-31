@@ -1,4 +1,4 @@
-package gpedrobuildout;
+package net.jonahmiller5.integrations.slack;
 
 import java.util.ArrayList;
 import java.util.Date;

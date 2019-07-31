@@ -1,4 +1,4 @@
-package gpedrobuildout;
+package net.jonahmiller5.integrations.slack;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
